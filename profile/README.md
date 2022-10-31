@@ -15,4 +15,4 @@
 
 > Заглядывай в [Notion](https://lavish-podium-945.notion.site/7b3f9c688b7f4500b4b11160d38d2e45), если интересно посмотреть на наши проекты :neckbeard:
 
-У нашей команды есть ряд правил разработки, найти их можно [здесь](https://github.com/lsd-maddrive/.github/blob/develop/profile/DEVELOPMENT.md)!
+У нашей команды есть ряд процессы разработки, найти их можно [здесь](https://github.com/lsd-maddrive/.github/blob/develop/profile/DEVELOPMENT.md)!
