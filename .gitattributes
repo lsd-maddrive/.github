@@ -1,0 +1,7 @@
+assets/zawrka.png filter=lfs diff=lfs merge=lfs -text
+assets/bb.png filter=lfs diff=lfs merge=lfs -text
+assets/gazel.png filter=lfs diff=lfs merge=lfs -text
+assets/mishanya.png filter=lfs diff=lfs merge=lfs -text
+assets/tank.png filter=lfs diff=lfs merge=lfs -text
+assets/tigra.png filter=lfs diff=lfs merge=lfs -text
+assets/tilt-table.png filter=lfs diff=lfs merge=lfs -text
